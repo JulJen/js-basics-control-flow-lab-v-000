@@ -4,7 +4,7 @@ function scuberGreetingForFeet(distance) {
   if (distance <= 400) {
     ride = 'This one is on me!';
   }
-  return result
+  return ride
 }
 
 
